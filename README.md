@@ -3,3 +3,5 @@
 Deneme
 
 açıklamasıdır.
+
+GPG KEY EKLENDİ
